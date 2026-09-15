@@ -22,5 +22,4 @@ print(type('N/A'))
 print(type('USA'))
 
 # Exercise: Level 3
-
 print('√', ((2-10)**2 + (3-8)**2))
