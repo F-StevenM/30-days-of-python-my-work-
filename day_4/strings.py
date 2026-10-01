@@ -1,4 +1,8 @@
-multiline_string = '''I am a teacher and enjoy teaching.
-I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python.'''
-print(multiline_string)
+# 1
+word1 = 'Thirty'
+word2 = 'days'
+word3 = 'of'
+word4 = 'Python'
+space = ' '
+full_phrase = word1 + space + word2 + space + word3 + space + word4
+print(full_phrase)
