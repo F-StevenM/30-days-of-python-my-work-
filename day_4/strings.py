@@ -35,11 +35,26 @@
 #print(tech_companies.split(', '))
 
 #15
-company = 'Coding For All'
-first_letter = company[0]
-print(first_letter)
+#company = 'Coding For All'
+#first_letter = company[0]
+#print(first_letter)
 
 # 16
+#company = 'Coding For All'
+#last_letter = company[-1]
+#print(last_letter)
+
+#17
+#company = 'Coding For All'
+#index_ten = company[10]
+#print(index_ten)
+
+# 18
+company = 'Python For Everyone'
+pfe = company[0] + company[7] + company[11]
+print(pfe)
+
+# 19
 company = 'Coding For All'
-last_letter = company[-1]
-print(last_letter)
+cfa = company[0] + company[7] + company[11]
+print(cfa)
