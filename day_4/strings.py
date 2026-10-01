@@ -50,11 +50,11 @@
 #print(index_ten)
 
 # 18
-company = 'Python For Everyone'
-pfe = company[0] + company[7] + company[11]
-print(pfe)
+#company = 'Python For Everyone'
+#pfe = company[0] + company[7] + company[11]
+#print(pfe)
 
 # 19
-company = 'Coding For All'
-cfa = company[0] + company[7] + company[11]
-print(cfa)
+#company = 'Coding For All'
+#cfa = company[0] + company[7] + company[11]
+#print(cfa)
