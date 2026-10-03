@@ -72,6 +72,10 @@
 #print(company.rfind('l'))
 
 # 23
-sentence = 'You cannot end a sentence with because because is a conjunction'
-print(sentence.find('because'))
+#sentence = 'You cannot end a sentence with because because is a conjunction'
+#print(sentence.find('because'))
 
+# 24
+sentence = 'You cannot end a sentence with because because is a conjunction'
+#word = 'because'
+print(sentence.rindex('because'))
