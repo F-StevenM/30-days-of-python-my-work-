@@ -58,3 +58,20 @@
 #company = 'Coding For All'
 #cfa = company[0] + company[7] + company[11]
 #print(cfa)
+
+# 20
+#company = 'Coding For All'
+#print(company.find('C'))
+
+# 21
+#company = 'Coding For All'
+#print(company.find('F'))
+
+# 22
+#company = 'Coding For All People'
+#print(company.rfind('l'))
+
+# 23
+sentence = 'You cannot end a sentence with because because is a conjunction'
+print(sentence.find('because'))
+
