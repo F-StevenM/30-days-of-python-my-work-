@@ -76,6 +76,11 @@
 #print(sentence.find('because'))
 
 # 24
-sentence = 'You cannot end a sentence with because because is a conjunction'
-#word = 'because'
-print(sentence.rindex('because'))
+#sentence = 'You cannot end a sentence with because because is a conjunction'
+#print(sentence.rindex('because'))
+
+# 25
+sentence = 'You cannot end a sentence with because because because is a conjunction'
+first_phrase = sentence[0:31]
+second_phrase = sentence[55:71]
+print(first_phrase + second_phrase)
